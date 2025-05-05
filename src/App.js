@@ -3,6 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './componentes/Header';
 import CardB from './componentes/Card';
 import Foot from './componentes/Footer';
+
+
 function App() {
   return (
     <div className="App container">
